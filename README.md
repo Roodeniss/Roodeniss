@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roodeniss 
+- 👋 Hi, I’m @Roodeniss , i am a science computer student at Universidad ORT Uruguay
 - 👀 I’m interested in Software Devolopment and Mobile Development
 - 🌱 I’m currently learning Java, Python, and some Web programming lenguajes
 - 💞️ I’m looking to collaborate on some interesting Java projets 
