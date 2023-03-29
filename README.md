@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roodeniss , i am a science computer student at Universidad ORT Uruguay
-- 👀 I’m interested in Software Devolopment and Mobile Development
-- 🌱 I’m currently learning Java, JavaScrip, and some Web programming lenguajes
+- 👀 I’m interested in Software Devolopment, Mobile Development and Testing
+- 🌱 I’m currently learning React, some Web programming lenguajes (such as JavaScript and TypeScript ) and testing frameworks
 - 📫 How to reach me: DM me on Linkedin: https://www.linkedin.com/in/rodrigo-denis-goncalves/
 
 <!---
