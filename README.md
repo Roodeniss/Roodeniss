@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Roodeniss , i am a science computer student at Universidad ORT Uruguay
-- 👀 I’m interested in Software Devolopment, Mobile Development and Testing
-- 🌱 I’m currently learning React, some Web programming lenguajes (such as JavaScript and TypeScript ) and testing frameworks
+- 👋 Hi, I’m @Roodeniss , i am a Ssr QA Engineer and Jr web developer
+- 👀 I’m interested in Testing, Software Devolopment and Mobile Development 
 - 📫 How to reach me: DM me on Linkedin: https://www.linkedin.com/in/rodrigo-denis-goncalves/
 
 <!---
