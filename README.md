@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roodeniss , i am a Ssr QA Engineer and Jr web/app developer
+- 👋 Hi, I’m @Roodeniss , I am a Ssr QA Engineer and Jr web/app developer
 - 👀 I’m interested in Testing, Software Devolopment and Mobile Development 
 - 📫 How to reach me: DM me on Linkedin: https://www.linkedin.com/in/rodrigo-denis-goncalves/
 
